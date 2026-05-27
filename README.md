@@ -47,9 +47,9 @@ pharmaguard-pipeline/
 ├── src/
 │   ├── __init__.py                  # Inicializador del paquete Python
 │   ├── ingesta.py                   # Etapa 1: Extracción perimetral
-│   ├── transformacion.py            # Etapa 2: Pandas & Data Masking
-│   ├── validacion.py                # Etapa 3: Pydantic & Logs de anomalías
-│   └── carga.py                     # Etapa 4: SQLAlchemy & Bulk Insert MySQL
+│   ├── transformation.py            # Etapa 2: Pandas & Data Masking
+│   ├── validation.py                # Etapa 3: Pydantic & Logs de anomalías
+│   └── loading.py                     # Etapa 4: SQLAlchemy & Bulk Insert MySQL
 ├── logs/
 │   └── errores_validacion.log       # Aislamiento automatizado de registros corruptos
 ├── .env                             # Archivo local protegido de credenciales
