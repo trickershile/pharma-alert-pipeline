@@ -1,10 +1,10 @@
-# 💊 PharmaGuard — Pipeline DataOps & Panel Clínico
+#  PharmaGuard — Pipeline DataOps & Panel Clínico
 
 PharmaGuard es un ecosistema automatizado de **Ingeniería de Datos y software clínico** diseñado para la ingesta, transformación, validación y despliegue de registros farmacológicos interactivos. El sistema implementa una arquitectura híbrida tolerante a fallos que procesa un dataset real de 163 medicamentos, aplicando reglas científicas de interacciones basada en el Vademécum y políticas estrictas de seguridad de la información.
 
 ---
 
-## 🏗️ Arquitectura del Sistema (Flujo DataOps)
+##  Arquitectura del Sistema (Flujo DataOps)
 
 El proyecto está completamente modularizado bajo principios de DataOps, dividiendo el ciclo de vida del dato en 4 etapas consecutivas:
 
