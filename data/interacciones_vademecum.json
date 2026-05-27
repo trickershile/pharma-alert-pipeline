@@ -1,0 +1,132 @@
+{
+    "actualizado": "2026-05-27",
+    "institucion_referencia": "Instituto de Salud Publica (ISP) Chile / Vademecum Clinico",
+    "reglas": [
+        {
+            "componente_1": "clorfenamina",
+            "componente_2": "diazepam",
+            "nivel_riesgo": "crítico",
+            "descripcion": "Potenciación extrema de la depresión del Sistema Nervioso Central (SNC). Riesgo elevado de sedación profunda, coma y depresión respiratoria severa."
+        },
+        {
+            "componente_1": "clorfenamina",
+            "componente_2": "clonazepam",
+            "nivel_riesgo": "crítico",
+            "descripcion": "Aumento severo del efecto sedante y somnolencia diurna. Se prohíbe la conducción de vehículos y operación de maquinaria."
+        },
+        {
+            "componente_1": "levocetirizina",
+            "componente_2": "alprazolam",
+            "nivel_riesgo": "alto",
+            "descripcion": "Efecto depresor aditivo sobre el sistema nervioso. Incrementa el riesgo de mareos, entorpecimiento motor y caídas."
+        },
+        {
+            "componente_1": "losartan",
+            "componente_2": "ibuprofeno",
+            "nivel_riesgo": "alto",
+            "descripcion": "Los AINEs reducen el efecto antihipertensivo del Losartán y elevan de forma crítica el riesgo de insuficiencia renal aguda (nefrotoxicidad)."
+        },
+        {
+            "componente_1": "losartan",
+            "componente_2": "naproxeno",
+            "nivel_riesgo": "alto",
+            "descripcion": "Disminución del control de la presión arterial y riesgo de hiperpotasemia (elevación grave de potasio en sangre) por compromiso renal combinado."
+        },
+        {
+            "componente_1": "enalafril",
+            "componente_2": "aspirina (aas)",
+            "nivel_riesgo": "moderado",
+            "descripcion": "A dosis altas de aspirina como analgésico, se atenúa la eficacia vasodilatadora del Enalapril debido a la inhibición de prostaglandinas renales."
+        },
+        {
+            "componente_1": "espironolactona",
+            "componente_2": "losartan",
+            "nivel_riesgo": "alto",
+            "descripcion": "Riesgo crítico de hiperpotasemia severa. Puede inducir arritmias cardíacas graves. Requiere monitoreo estricto de electrolitos plasmáticos."
+        },
+        {
+            "componente_1": "furosemida",
+            "componente_2": "digoxina",
+            "nivel_riesgo": "alto",
+            "descripcion": "La furosemida provoca pérdida de potasio (hipopotasemia), lo cual aumenta drásticamente la toxicidad de la Digoxina, gatillando arritmias mortales."
+        },
+        {
+            "componente_1": "amoxicilina",
+            "componente_2": "metotrexato",
+            "nivel_riesgo": "alto",
+            "descripcion": "Las penicilinas reducen la excreción renal de metotrexato, aumentando de forma severa el riesgo de toxicidad hematológica y digestiva."
+        },
+        {
+            "componente_1": "claritromicina",
+            "componente_2": "atorvastatina",
+            "nivel_riesgo": "crítico",
+            "descripcion": "La claritromicina inhibe fuertemente el citocromo CYP3A4, elevando masivamente los niveles de Atorvastatina. Riesgo inminente de rabdomiólisis (destrucción muscular) y daño renal."
+        },
+        {
+            "componente_1": "ciprofloxacino",
+            "componente_2": "carbonato de calcio",
+            "nivel_riesgo": "alto",
+            "descripcion": "El calcio actúa como quelante en el tracto digestivo, reduciendo la absorción del Ciprofloxacino hasta en un 60%. Pérdida del efecto antibiótico."
+        },
+        {
+            "componente_1": "fluoxetina",
+            "componente_2": "tramadol",
+            "nivel_riesgo": "crítico",
+            "descripcion": "Riesgo inminente de Síndrome Serotoninérgico grave (rigidez, hipertermia, convulsiones) y disminución del efecto analgésico del Tramadol."
+        },
+        {
+            "componente_1": "sertralina",
+            "componente_2": "aspirina (aas)",
+            "nivel_riesgo": "moderado",
+            "descripcion": "Los ISRS alteran la agregación plaquetaria. Su combinación con aspirina aumenta exponencialmente el riesgo de hemorragias digestivas altas."
+        },
+        {
+            "componente_1": "clozapina",
+            "componente_2": "carbamazepina",
+            "nivel_riesgo": "crítico",
+            "descripcion": "Contraindicación absoluta. Ambos fármacos poseen potencial mielosupresor. Aumenta gravemente el riesgo de agranulocitosis (colapso de glóbulos blancos)."
+        },
+        {
+            "componente_1": "acido valproico",
+            "componente_2": "aspirina (aas)",
+            "nivel_riesgo": "alto",
+            "descripcion": "La aspirina desplaza al ácido valproico de las proteínas plasmáticas e inhibe su metabolismo, elevando sus niveles libres y su toxicidad neuropsiquiátrica."
+        },
+        {
+            "componente_1": "omeprazol",
+            "componente_2": "clopidogrel",
+            "nivel_riesgo": "alto",
+            "descripcion": "El omeprazol inhibe la enzima CYP2C19, impidiendo la activación biológica del Clopidogrel. Aumenta drásticamente el riesgo de infartos o trombosis."
+        },
+        {
+            "componente_1": "metoclopramida",
+            "componente_2": "haloperidol",
+            "nivel_riesgo": "alto",
+            "descripcion": "Efecto aditivo de bloqueo dopaminérgico. Incrementa de forma severa el riesgo de reacciones extrapiramidales y discinesia tardía irreversible."
+        },
+        {
+            "componente_1": "warfarina",
+            "componente_2": "aspirina (aas)",
+            "nivel_riesgo": "crítico",
+            "descripcion": "Potenciación extrema del efecto anticoagulante. Riesgo crítico de hemorragias masivas internas y sangrado digestivo severo."
+        },
+        {
+            "componente_1": "metformina",
+            "componente_2": "contrastes yodados",
+            "nivel_riesgo": "alto",
+            "descripcion": "El contraste yodado induce insuficiencia renal transitoria, lo que provoca la acumulación de metformina y gatilla una acidosis láctica potencialmente fatal."
+        },
+        {
+            "componente_1": "glibenclamida",
+            "componente_2": "fluconazol",
+            "nivel_riesgo": "alto",
+            "descripcion": "El fluconazol inhibe el metabolismo de las sulfonilureas, aumentando sus concentraciones en sangre y gatillando hipoglucemias severas prolongadas."
+        },
+        {
+            "componente_1": "paracetamol",
+            "componente_2": "tramadol",
+            "nivel_riesgo": "bajo",
+            "descripcion": "Efecto sinérgico analgésico positivo para el control del dolor moderado a severo. Monitorear dosis diaria total para prevenir toxicidad hepática."
+        }
+    ]
+}
