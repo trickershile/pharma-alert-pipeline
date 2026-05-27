@@ -4,12 +4,11 @@ from sqlalchemy import create_engine, text
 import pandas as pd
 
 # CONFIGURACIÓN DE CONEXIÓN A MYSQL (Modifica según tus credenciales si es necesario)
-DB_USER = "root"
-DB_PASSWORD = "123456789"          # Coloca tu contraseña de MySQL aquí si tienes una
-DB_HOST = "localhost"
-DB_PORT = "3306"
-DB_NAME = "pharmaguard_db" # Asegúrate de que esta base de datos exista en tu MySQL
-
+DB_USER="root"
+DB_PASSWORD=""
+DB_HOST="host.docker.internal"
+DB_PORT="3306"
+DB_NAME="pharmaguard_db"
 def ejecutar_etapa_carga(df_certificado):
     print("\n" + "="*60)
     print(" DATAOPS PIPELINE - ETAPA 4: CARGA TRANSACCIONAL (MYSQL)")

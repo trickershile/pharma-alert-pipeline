@@ -1,0 +1,15 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Logs de errores (Manejo de anomalías local)
+logs/
+*.log
+
+# Entornos virtuales (si usas uno)
+venv/
+.venv/
+
+# Archivos ocultos de sistema
+.DS_Store
+Thumbs.db
