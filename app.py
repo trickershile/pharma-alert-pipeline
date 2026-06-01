@@ -13,7 +13,7 @@ st.set_page_config(
 
 # CREDENCIALES DE CONEXIÓN A TU MOTOR LOCAL MYSQL
 DB_USER = "root"
-DB_PASSWORD = "123456789"  # ⚠️ Recuerda colocar tu contraseña de MySQL aquí si configuraste una
+DB_PASSWORD = "123456789"
 DB_HOST = "localhost"
 DB_PORT = "3306"
 DB_NAME = "pharmaguard_db"
