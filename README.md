@@ -117,3 +117,4 @@ Ejecute la interfaz de Streamlit normalmente. El panel detectará el cambio arqu
 
 Bash
 python -m streamlit run app.py
+pip install pandas pydantic pymysql sqlalchemy streamlit unidecode python-dotenv
